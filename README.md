@@ -1,4 +1,4 @@
-# LinkedIn Skill Mining Pro
+# LinkedIn Skill Mining
 
 A Streamlit dashboard for analyzing and visualizing in-demand job skills from LinkedIn job listings.  
 Discover trending skills, explore clusters and associations, and gain actionable insights from job market data.
